@@ -78,9 +78,6 @@ homestay/
 └── testapi.txt              # API testing notes
 ```
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
