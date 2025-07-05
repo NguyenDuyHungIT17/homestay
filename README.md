@@ -63,7 +63,7 @@ A full-stack application that enables users to search, book, and manage homestay
    ```
 
 5. **Access the admin dashboard:**
-   - Open the `index.html` file located in the `FE_ADMIN_12/FE/admin` directory using a web browser.
+   - Open the `dangnhap.html` file located in the `FE_ADMIN_12/FE/admin` directory using a web browser.
 
 ## 📁 Project Structure
 
